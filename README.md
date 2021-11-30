@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imbhaskarn
-- 👀 I’m interested in react, node.js, bootstrap, css, react-native
+- 👀 I’m interested in node.js, api's, graphQl, web apps, bootstrap and css 
 - 🌱 I’m currently learning css, javascript and react
 - 💞️ I’m looking to collaborate on anything i can help with.
 - 📫 How to reach me mrbhaskarn@gmail.com
