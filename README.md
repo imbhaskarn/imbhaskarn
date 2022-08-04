@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @imbhaskarn
+- 👋 Hi, I’m bhaskar
 - 👀 I’m interested in node.js, api's, graphQl, web apps, bootstrap and css 
-- 🌱 I’m currently working on a node.js project.
-- 💞️ I’m looking to collaborate on anything i can help with.
+- 🌱 I’m currently working as a backend developer.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me mrbhaskarn@gmail.com
-
-<!---
-imbhaskarn/imbhaskarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
