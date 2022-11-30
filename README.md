@@ -1,19 +1,7 @@
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Bhaskar+Sharma)](https://git.io/typing-svg)
-  
-</div>  
-<div align="center">
-  
-## About
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&vCenter=true&width=435&lines=Hi+There%2C+I'm+Bhaskar+Sharma)](https://git.io/typing-svg)
+
 I am full stack developer, I mostly work on Node.js and Python. I have built many projects on node.js and and python. In my free time I work on my prosonal projects and deploy on aws.
-
-<hr>
-
-## My stats
-  
- [![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=imbhaskarn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
@@ -66,7 +54,7 @@ I am full stack developer, I mostly work on Node.js and Python. I have built man
 
 <br/><br/>
 
-
+[![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=imbhaskarn&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 __________________
 
    
