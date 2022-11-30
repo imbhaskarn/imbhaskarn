@@ -54,8 +54,9 @@ I am full stack developer, I mostly work on Node.js, Python and React. I have bu
 
 <br/><br/>
 
-[![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=imbhaskarn&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-__________________
+ Overall Stats             |  Contribution Stats
+:-------------------------:|:-------------------------:
+![Bhaskar's Github Stats](https://github-readme-stats.vercel.app/api?username=imbhaskarn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical)  |  ![Bhaskar's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=imbhaskarn&include_all_commits=true&hide_border=true&theme=radical)
 
    
    
