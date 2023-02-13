@@ -2,6 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&vCenter=true&width=435&lines=Hi+There%2C+I'm+Bhaskar+Sharma)](https://git.io/typing-svg)
 
 I am full stack developer, I mostly work on Node.js, Python and React. I have built many projects on node.js and and python. In my free time I work on my prosonal projects and deploy on aws.
+  
+<h2 align='center'>  Visitors  <h2/>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{imbhaskarn}/count.svg" />
+</p>
 
 <hr>
 
@@ -53,8 +58,7 @@ I am full stack developer, I mostly work on Node.js, Python and React. I have bu
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 <br/><br/>
-![Visitors](https://komarev.com/ghpvc/?username=imbhaskarn&color=049a0e)
-<br><br/>
+
  Overall Stats             |  Contribution Stats
 :-------------------------:|:-------------------------:
 ![Bhaskar's Github Stats](https://github-readme-stats.vercel.app/api?username=imbhaskarn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)  |  ![Bhaskar's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=imbhaskarn&include_all_commits=true&hide_border=true&theme=gruvbox)
