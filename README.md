@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&vCenter=true&width=435&lines=Hi+There%2C+I'm+Bhaskar+Sharma)](https://git.io/typing-svg)
 
-I am full stack developer, I mostly work on Node.js, Python and React. I have built many projects on node.js and and python. In my free time I work on my prosonal projects and deploy on aws.
+I am full stack developer, I mostly work on Node.js, Python and React. I have built many projects on node.js and paython. Im also interested in DevOps. 
 
 
 <hr>
