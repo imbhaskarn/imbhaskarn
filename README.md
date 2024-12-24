@@ -1,3 +1,5 @@
+"😎 Hi, I’m **Bhaskar Sharma**—welcome to my GitHub, the land of commits 🔥 and chaos 🌀!"
+
 🔭 I’m currently working on Node.js—it’s like assembling IKEA furniture but with more curly braces.
 👯 I’m looking to collaborate on Go, Nest, or anything else that makes me look cool on GitHub.
 🤝 I’m looking for help with remembering where I left my semicolons.
