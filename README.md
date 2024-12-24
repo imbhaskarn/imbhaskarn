@@ -63,7 +63,6 @@
 
  Overall Stats             |  Contribution Stats
 :-------------------------:|:-------------------------:
-![Bhaskar's Github Stats](https://github-readme-stats.vercel.app/api?username=imbhaskarn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)  |  ![Bhaskar's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=imbhaskarn&include_all_commits=true&hide_border=true&theme=gruvbox)
-
+![Bhaskar's Github Stats](https://github-readme-stats.vercel.app/api?username=imbhaskarn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)
 <br/>
    
