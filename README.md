@@ -60,6 +60,11 @@
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 <br/><br/>           
-![Bhaskar's Github Stats](https://github-readme-stats.vercel.app/api?username=imbhaskarn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)
+# 📊 GitHub Stats:
+
+| ![](https://github-readme-stats.vercel.app/api?username=imbhaskarn&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=imbhaskarn&theme=dark&hide_border=false) |
+|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imbhaskarn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | |
+
 <br/>
    
