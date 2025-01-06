@@ -7,7 +7,7 @@
 🤝 I’m looking for help with remembering where I left my semicolons.
 🌱 I’m currently learning Go and DSA because sleep is overrated.
 💬 Ask me about my favorite console.log statement—I have one for every occasion.
-⚡ Fun fact: I can explain AWS to you, but I can’t explain why it always feels like I’m building a Jenga tower.
+⚡ Fun fact: I can explain AWS to you, but I can’t explain how the billing works.
 
 
 <hr>
